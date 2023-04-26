@@ -142,7 +142,7 @@ const Dashboard = () => {
                     <span className="widgetLgName">Kaanu</span>
                   </td>
                   <td className="widgetLgDate">2 Feb 2023</td>
-                  <td className="widgetLgAmount">7 500.00</td>
+                  <td className="widgetLgAmount">70,500.00</td>
                   <td className="widgetLgStatus">
                     <button type="Approved" />
                   </td>
