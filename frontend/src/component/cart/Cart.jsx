@@ -22,13 +22,7 @@ const Cart = ({ history }) => {
 
   let totalPrice = Price;
 
-  const increaseQuantity = (id, quantity, stock) => {
-    const newQty = quantity + 1;
-    if (stock <= quantity) {
-      return toast.error("Product Stock Limited");
-    }
-    dispatch(addItemsToCart(id, newQty));
-  };
+
 
   const decreaseQuantity = (id, quantity) => {
     const newQty = quantity - 1;
