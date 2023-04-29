@@ -30,6 +30,9 @@ router.route("/me/update").put(isAuthenticatedUser, updatePassword);
 
 router.route("/me/update/info").put(isAuthenticatedUser, updateProfile);
 
+
+router.route("/me/update/info").put(isAuthenticatedUser, deleteProfile);
+
 router.route("/me").get(isAuthenticatedUser, userDetails);
 
 router
