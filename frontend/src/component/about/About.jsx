@@ -45,14 +45,9 @@ const About = () => {
                         this developed for assignment purpose
                       </p>
                       <p>
-                        lus ferri velit sanctus cu, sed at soleat accusata.
-                        Dictas prompta et Ut placerat legendos interpre.Donec
-                        vitae sapien ut libero venenatis faucibus. Nullam quis
-                        ante Etiam sit amet orci eget. Quis commodo odio aenean
-                        sed adipiscing. Turpis massa tincidunt dui ut ornare
-                        lectus. Auctor elit sed vulputate mi sit amet. Commodo
-                        consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate id est laborum.
+                      There are many variations of passages of Lorem Ipsum
+                      available, but the majority have suffered alteration
+                      in some form
                       </p>
                     </div>
                   </div>
