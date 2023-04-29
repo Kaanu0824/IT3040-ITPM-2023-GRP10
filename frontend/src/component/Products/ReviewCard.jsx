@@ -17,25 +17,6 @@ const { product,loading } = useSelector(
         color:"#3BB77E"
       };
 
-      const ReviewCard = ({deletereview}) => {
-        // eslint-disable-next-line
-    
-    const { product,loading } = useSelector(
-        (state) => state.productDetails
-      );
-    
-        const options = {
-            value: review.rating,
-            readOnly: true,
-            precision: 0.5,
-            color:"#3BB77E"
-          };
-    
-
-
-
-
-
 
     return (
        <>
