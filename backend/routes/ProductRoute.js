@@ -31,11 +31,10 @@ router
 
   
 router.route("/product/review").post(isAuthenticatedUser, createProductReview);
-
-
-
   
-
+router
+  .route("/product/newreview")
+  .post(isAuthenticatedUser, authorizeRoles("admin"), addreview);
 
 router
   .route("/reviews")
