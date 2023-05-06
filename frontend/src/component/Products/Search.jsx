@@ -26,8 +26,8 @@ const Search = ({ history }) => {
         />
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="30"
-          height="30"
+          width="25"
+          height="25"
           fill="currentColor"
           class="bi bi-search pointer"
           viewBox="0 0 16 16"
