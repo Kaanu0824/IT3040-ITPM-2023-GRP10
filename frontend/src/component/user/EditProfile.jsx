@@ -21,7 +21,7 @@ const EditProfile = ({history}) => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [avatar, setAvatar] = useState();
-  const [avatarPreview, setAvatarPreview] = useState("/profile.png");
+  const [avatarPreview, setAvatarPreview] = useState("/");
 
 
   const updateProfileSubmit = (e) => {
