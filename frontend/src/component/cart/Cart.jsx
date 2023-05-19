@@ -46,6 +46,7 @@ const Cart = ({ history }) => {
     history.push("/login?redirect=shipping");
   };
 
+  
   return (
     <>
       {cartItems.length === 0 ? (
