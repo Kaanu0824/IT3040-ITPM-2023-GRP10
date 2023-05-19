@@ -38,7 +38,8 @@ const Home = () => {
           <Header />
           {/* Carousel */}
           <div className="banner">
-            <Carousel>
+            
+          <Carousel>
               <img src={bg} className="bgImg" />
               <img src={bg2} className="bgImg" />
               <img src={bg3} className="bgImg" />
