@@ -41,10 +41,9 @@ Our application has four functionalities: management of users' profiles and acco
 
 1. Download a zip folder of this project and unzip or clone the repository.
 2. Open the project in vs code or any IDE
-3. Select Sej027Updated folder
-4. Then select backend folder and right click and open intergrated terminal
-5. Type ‘npm install’ and click enter
-6. After the node modules getting downloaded, type ‘npm start’ and click enter.
-7. Navigate to frontend folder -> cd Frontend
-8. Type ‘npm install’ and click enter
-9. After the node modules getting downloaded, type npm run dev for backend folder and npm start for frontend folder
+3. Select backend folder and right click and open intergrated terminal
+4. Type ‘npm install’ and click enter
+5. After the node modules getting downloaded, type ‘npm start’ and click enter.
+6. Navigate to frontend folder -> cd Frontend
+7. Type ‘npm install’ and click enter
+8. After the node modules getting downloaded, type npm run dev for backend folder and npm start for frontend folder
