@@ -1,12 +1,12 @@
 .LoginSignUpContainer {
-    width: 100vw;
-    height: 100vh;
-    max-width: 100%;
+    width: 110vw;
+    height: 110vh;
+    max-width: 110%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
     background-color: #fff;
-    background-image: url(https://image.freepik.com/free-vector/online-wishes-list-concept-illustration_114360-3900.jpg);
+    background-image: url(https://www.websitepentest.com/themes/new_theme/logintemplate/images/background.png);
     background-repeat: no-repeat;
     background-position: left;
     background-position-x: 10%;
