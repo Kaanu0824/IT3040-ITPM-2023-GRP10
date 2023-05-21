@@ -72,7 +72,7 @@ const Footer = () => {
         </div>
 
         <div className="app">
-          <h1>Install App</h1>
+          <h1> Install App </h1>
           <h6>From App Store or Google Play</h6>
           <div className="App__Image flex pointer">
             <Link to="/creator">
