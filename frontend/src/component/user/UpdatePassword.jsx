@@ -54,6 +54,7 @@ const dispatch = useDispatch();
         <Loading />
       ) : (
         <>
+        
           <MetaData title="Change Password" />
           <div className="updatePasswordContainer">
             <div className="updatePasswordBox">
