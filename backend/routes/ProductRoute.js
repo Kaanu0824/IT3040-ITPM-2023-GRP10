@@ -29,7 +29,13 @@ router
   .delete(isAuthenticatedUser, authorizeRoles("admin"), deleteProduct)
   .get(getSingleProduct);
 
+  
 router.route("/product/review").post(isAuthenticatedUser, createProductReview);
+
+
+
+  
+router.route("/reviews").post(isAuthenticatedUser, createProductReview);
 
 router
   .route("/reviews")
