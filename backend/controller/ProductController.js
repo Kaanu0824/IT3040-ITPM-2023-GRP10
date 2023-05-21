@@ -251,4 +251,5 @@ exports.deleteReview = catchAsyncErrors(async (req, res, next) => {
   });
 });
 
-// 
+// exports.deleteReview = catchAsyncErrors(async (req, res, next) => {
+// const product = await Product.findById(req.query.productId);
