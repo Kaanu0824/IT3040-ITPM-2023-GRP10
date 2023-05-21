@@ -183,7 +183,7 @@ const CreateProduct = ({ history }) => {
               type="submit"
               disabled={loading ? true : false}
             >
-              Create
+              Cre ate
             </Button>
           </form>
         </div>
