@@ -42,22 +42,15 @@ const About = () => {
                         Welcome to CIS
                       </span>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate id est laborum.
+                      We offer a tremendous gathering of books in the various classifications of Fiction,
+                       Non-fiction, Biographies, History, Religions, Self – Help, and Children. 
+                       We likewise move in immense accumulation of Investments and Management, 
+                       Computers, Engineering, Medical, College, and School content references 
+                       books proposed by various foundations as scheduled the nation over. 
+                       Besides this, we offer an expansive gathering of E-Books at a reasonable value.
                       </p>
                       <p>
-                        lus ferri velit sanctus cu, sed at soleat accusata.
-                        Dictas prompta et Ut placerat legendos interpre.Donec
-                        vitae sapien ut libero venenatis faucibus. Nullam quis
-                        ante Etiam sit amet orci eget. Quis commodo odio aenean
-                        sed adipiscing. Turpis massa tincidunt dui ut ornare
-                        lectus. Auctor elit sed vulputate mi sit amet. Commodo
-                        consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate id est laborum.
+                      
                       </p>
                     </div>
                   </div>
