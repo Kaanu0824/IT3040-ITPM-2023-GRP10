@@ -82,8 +82,8 @@ const About = () => {
                         </div>
                         <span>Best Prices & Offers</span>
                         <p>
-                          There are many variations of passages of Lorem Ipsum
-                          available, but the majority have suffered alteration
+                          There are many variations of passages of Lorem ipsum
+                          available, But the majority have suffered alteration
                           in some form
                         </p>
                       </div>
