@@ -149,7 +149,7 @@ const AllProducts = ({ history }) => {
         <div className="productListContainer">
           <h1 id="productListHeading">ALL PRODUCT</h1>
           <button className="reportButton" onClick={() => exportPDF()}>
-            Generate Report
+            Generate a Reports
           </button>
           <br></br>
 
