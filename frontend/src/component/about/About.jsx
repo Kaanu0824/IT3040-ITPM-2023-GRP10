@@ -84,11 +84,13 @@ const About = () => {
                           <img src="http://wp.alithemes.com/html/nest/demo/assets/imgs/theme/icons/icon-1.svg" />
                         </div>
                         <span>Best Prices & Offers</span>
+
                         <p>
                           There are many variations of passages of Lorem Ipsum
                           available, but the majority have suffered alteration
                           in some form
                         </p>
+                        
                       </div>
                     </div>
                     <div className="col__3">
