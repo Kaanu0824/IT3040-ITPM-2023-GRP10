@@ -55,6 +55,13 @@ const About = () => {
                        and snappier conveyance frameworks. Upside to the majority of this, 
                        we are arranged to give energizing offers and charming limits on our books.
                       </p>
+                      <p>
+                      Too, we modestly welcome every one of the merchants around the nation to band 
+                      together with us. We will, without a doubt, give you the stage to many
+                       shimmering areas and develop the “Organization Name” family. We might 
+                       want to thank you for shopping with us. You can keep in touch with us
+                        for any new musings at “email-id,” helping us to ad-lib for the peruser fulfillment.
+                      </p>
                     </div>
                   </div>
                 </div>
