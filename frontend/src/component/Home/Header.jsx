@@ -92,7 +92,6 @@ const Header = () => {
             </Link>
           </ul>
         </div>
-
         <div className="rightOption flex align__items__center">
           <div>
             <Link to="/search">
