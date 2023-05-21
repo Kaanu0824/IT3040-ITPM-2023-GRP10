@@ -50,7 +50,10 @@ const About = () => {
                        Besides this, we offer an expansive gathering of E-Books at a reasonable value.
                       </p>
                       <p>
-                      
+                      We endeavor to broaden consumer loyalty by providing food with simple 
+                      easy-using web indexes, brisk and easy-to-understand installment alternatives,
+                       and snappier conveyance frameworks. Upside to the majority of this, 
+                       we are arranged to give energizing offers and charming limits on our books.
                       </p>
                     </div>
                   </div>
