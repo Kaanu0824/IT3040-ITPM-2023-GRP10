@@ -100,11 +100,11 @@ const Footer = () => {
           <Link to="/login">
             <h3>Sign In</h3>
           </Link>
-          <Link to="/login">
-            <h3>Registration</h3>
-          </Link>
           <Link to="/password/forgot">
             <h3>Forgot Password</h3>
+          </Link>
+          <Link to="/login">
+            <h3>Registration</h3>
           </Link>
         </div>
         {/* Footer 3rd part */}
