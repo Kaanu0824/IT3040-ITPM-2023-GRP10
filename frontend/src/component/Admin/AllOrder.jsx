@@ -65,6 +65,7 @@ const AllOrder = ({ history }) => {
           : "redColor";
       },
     },
+    
     {
       field: "itemsQty",
       headerName: "Items Qty",

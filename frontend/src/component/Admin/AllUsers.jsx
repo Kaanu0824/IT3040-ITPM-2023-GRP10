@@ -155,7 +155,7 @@ const AllUsers = ({ history }) => {
       <div className="dashboard">
         <SideBar />
         <div className="productListContainer">
-          <h1 id="productListHeading">ALL USERS</h1>
+          <h1 id="productListHeading">ALL THE USERS</h1>
           <button className="reportButton" onClick={() => exportPDF()}>
             Generate Report
           </button>
@@ -170,6 +170,7 @@ const AllUsers = ({ history }) => {
             autoHeight
           />
         </div>
+        
       </div>
       <ToastContainer
         position="bottom-center"

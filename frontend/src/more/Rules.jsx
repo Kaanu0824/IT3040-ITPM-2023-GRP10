@@ -28,6 +28,7 @@ const Rules = () => {
                 <li>3. You can buy any products from us...we are trying to our best for give the best quality of products...</li>
                 <li>4. You can find more new features in our buiseness in very soon...Our developers team always work for your good services...</li>
                 <li>5. At last thanks for visit our website...Have a good day !</li>
+                <li>6. At last thanks for visit our website...Have a good day !</li>
             </ul>
         </div>
         <Footer />

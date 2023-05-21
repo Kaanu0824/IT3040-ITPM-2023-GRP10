@@ -42,22 +42,25 @@ const About = () => {
                         Welcome to CIS
                       </span>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate id est laborum.
+                      We offer a tremendous gathering of books in the various classifications of Fiction,
+                       Non-fiction, Biographies, History, Religions, Self – Help, and Children. 
+                       We likewise move in immense accumulation of Investments and Management, 
+                       Computers, Engineering, Medical, College, and School content references 
+                       books proposed by various foundations as scheduled the nation over. 
+                       Besides this, we offer an expansive gathering of E-Books at a reasonable value.
                       </p>
                       <p>
-                        lus ferri velit sanctus cu, sed at soleat accusata.
-                        Dictas prompta et Ut placerat legendos interpre.Donec
-                        vitae sapien ut libero venenatis faucibus. Nullam quis
-                        ante Etiam sit amet orci eget. Quis commodo odio aenean
-                        sed adipiscing. Turpis massa tincidunt dui ut ornare
-                        lectus. Auctor elit sed vulputate mi sit amet. Commodo
-                        consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate id est laborum.
+                      We endeavor to broaden consumer loyalty by providing food with simple 
+                      easy-using web indexes, brisk and easy-to-understand installment alternatives,
+                       and snappier conveyance frameworks. Upside to the majority of this, 
+                       we are arranged to give energizing offers and charming limits on our books.
+                      </p>
+                      <p>
+                      Too, we modestly welcome every one of the merchants around the nation to band 
+                      together with us. We will, without a doubt, give you the stage to many
+                       shimmering areas and develop the “Organization Name” family. We might 
+                       want to thank you for shopping with us. You can keep in touch with us
+                        for any new musings at “email-id,” helping us to ad-lib for the peruser fulfillment.
                       </p>
                     </div>
                   </div>
@@ -81,11 +84,13 @@ const About = () => {
                           <img src="http://wp.alithemes.com/html/nest/demo/assets/imgs/theme/icons/icon-1.svg" />
                         </div>
                         <span>Best Prices & Offers</span>
+
                         <p>
                           There are many variations of passages of Lorem Ipsum
                           available, but the majority have suffered alteration
                           in some form
                         </p>
+                        
                       </div>
                     </div>
                     <div className="col__3">
